@@ -13,7 +13,3 @@ or
 npm install
 npm run dev
 ```
-
-```bash
-pnpm deploy
-```
