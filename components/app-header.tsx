@@ -38,7 +38,7 @@ export function AppHeader({ containerVariants, itemVariants }: AppHeaderProps) {
         className="text-gray-600 font-light text-lg leading-relaxed"
         variants={itemVariants}
       >
-        Upload files, receive intelligent analysis
+        Upload files, and get assignment graded
       </motion.p>
     </motion.div>
   )
